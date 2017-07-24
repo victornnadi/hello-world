@@ -1,0 +1,207 @@
+body{
+    margin: 0px 0px 0px 0px;
+    background: #ffe9d3;
+}
+.topbar {
+    height: 30px;
+    color: white;
+    width: inherit;
+    background-color: black;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    font-family: sans-serif;
+    text-align: center;
+}
+a.topbarsignup {
+    text-decoration: none;
+    color: darkorange;
+}
+.header {
+    height: 40px;
+    color: white;
+    width: inherit;
+    background-color: white;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    font-family: sans-serif;
+    text-align: center;
+    box-shadow: 0px 1px 10px 0px gray;
+    position: sticky;
+    top: 0px;
+}
+.logo {
+    height: 35px;
+    width: 35px;
+    display: inline;
+    float: left;
+}
+.headersearch{
+    float: left;
+    margin-left: 5px;
+    }
+input[type=search] {
+    background-color: white;
+    height: 35px;
+    width: 500px;
+    border-radius: 3px 0px 0px 3px;
+    border: 2px solid #ffe9d3;
+    padding-left: 6px;
+    
+}
+input[type=button] {
+    height: 35px;
+    width: 100px;
+    border: none;
+    color: white;
+    background-color: orange;
+    border-radius: 0px 3px 3px 0px;
+}
+.categories {
+    width: 250px;
+    height: 575px;
+    float:left;
+    background-color: white;
+}
+.post {
+    width: 540px;
+    height: 400px;
+    background-color: white;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border-radius: 3px 3px 3px 3px;
+    float: left;
+    padding-top: 8px;
+    padding-left: 0px;
+    padding-bottom: 5px;
+    padding-right: 0px;
+    
+}
+.postcontainer {
+    width: 560px;
+    height: auto;
+    float:left;
+    display: inline;
+}
+.marketanouncements {
+    float: left;
+    width: 300px;
+    height: 400px;
+    display: inline;
+    background-color: white;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+.adposter {
+    width: 295px;
+    height: 100px;
+    background-color: lightgray;
+}
+.postdetails {
+    width: 475px;
+    float: right;
+    height: 50px;
+    padding-left: 3px;
+    padding-top: 7px;
+}
+.postername {
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+.posttime {
+    color: grey;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+.postaction {
+    font-weight: 100;
+    font-size: 13px;
+    color: grey;
+}
+.postheader {
+    padding-left: 7px;
+}
+.postcontent {
+    width: 530px;
+    height: 340.5px;
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 0px;
+    
+}
+.postproduct3 {
+    height: 330px;
+    width: 159px;
+    background-color: white;
+    float:left;
+    margin-right: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border: 0.125px solid lightgrey;
+    
+}
+.postproduct1 {
+    height: 330px;
+    width: 510px;
+    background-color: white;
+    float: left;
+    margin-right: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border: 0.125px solid lightgrey;
+    
+}
+.productdetail {
+    height: 150px;
+    width: 150px;
+    text-align: center;
+}
+.productname {
+    font-family: sans-serif;
+    
+}
+.price {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: orange;
+    font-size: 18px;
+}
+.ecomicons {
+    height: 32px;
+    width:  100px;
+    float: right;
+    text-align: left;
+    padding-top: 2px;
+}
+.ecomprice {
+    float:right;
+    height: 24px;
+    color: black;
+    width: auto;
+    padding-top: 8px;
+    padding-right: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.usericons {
+    float:left;
+    height: 31px;
+    width: 450px;
+    border: 1px soid black;
+    padding-top: 4px;
+    }
+.icos {
+    margin-left: 10px;
+    float:right;
+}
